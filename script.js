@@ -16,7 +16,7 @@ window.addEventListener('scroll', function(){
 
 // TYPED
 var typed = new Typed('.typed', {
-  strings: ["Bonjour à tous et à toutes, je me présente je m'appelle Henr", "Après une carrière m'ayant fait découvrir plusieurs milieux professionnels et exercer plus de 15 métiers différents. J'ai décidé de me lancer à fond dans l'apprentissage du code, depuis près de 6 mois je me forme à temps plein en autodidacte aux langages Front tels que CSS, Javascript et son Framework React afin devenir le plus rapidement possible développeur. Plus qu'un avenir professionnel, je me suis découvert une passion, celle de coder."],
+  strings: ["Bonjour à tous et à toutes, je me présente je m'appelle Hikar", "Après une carrière m'ayant fait découvrir plusieurs milieux professionnels. J'ai décidé de me lancer à fond dans l'apprentissage du code, depuis près de 6 mois je me forme à temps plein en autodidacte aux langages Front tels que CSS, Javascript et Workpress afin devenir le plus rapidement possible développeur. Plus qu'un avenir professionnel, je me suis découvert une passion, celle de coder."],
   typeSpeed: 20,
 });
   
